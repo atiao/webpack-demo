@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atiao/webpack-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atiao/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/atiao/webpack-demo#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
